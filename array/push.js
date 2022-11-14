@@ -1,11 +1,11 @@
 // Array.prototype.push()
 
-const animals = ["pigs", "goats", "sheep"];
+const colors = ["yellow", "blue", "red"];
 
-const count = animals.push("cows");
+const count = colors.push("green");
 
 console.log(count);
 // expected output: 4
 
-console.log(animals);
-// expected output: Array ["pigs", "goats", "sheep", "cows"]
+console.log(colors);
+// expected output: Array [ 'yellow', 'blue', 'red', 'green' ]
