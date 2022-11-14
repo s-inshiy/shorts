@@ -10,4 +10,4 @@ console.log(count);
 // expected output: 4
 
 console.log(colors);
-// expected output: Array [ 'yellow', 'blue', 'pink', 'green' ]
+// expected output: [ 'yellow', 'blue', 'pink', 'green' ]
